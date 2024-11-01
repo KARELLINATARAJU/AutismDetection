@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 xception_model_weights.hdf5 filter=lfs diff=lfs merge=lfs -text
+resnet_model_weights.hdf5 filter=lfs diff=lfs merge=lfs -text
